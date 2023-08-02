@@ -19,6 +19,7 @@ public void mavenPracticeTest2() {
 @Test
 public void mavenPracticeTest3() {
 	Reporter.log("Practice3 ===> MavenPractice1Test ",true);
+	//new branch has made changes
 }
 
 }
