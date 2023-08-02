@@ -7,6 +7,7 @@ public class MavenPractice1Test {
 @Test
 public void mavenPracticeTest1() {
 	Reporter.log("Practice1 ===> MavenPractice1Test ",true);
+	//2nd commit
 }
 
 @Test
