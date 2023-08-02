@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Practice1 ===> MavenPracticeTest ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-19T23:36:43 IST" name="Default suite" finished-at="2022-07-19T23:36:43 IST" duration-ms="78">
+    <groups>
+    </groups>
+    <test started-at="2022-07-19T23:36:43 IST" name="Default test" finished-at="2022-07-19T23:36:43 IST" duration-ms="78">
+      <class name="org.tyss.maven_command_line_argument_practice.MavenPracticeTest">
+        <test-method signature="mavenPracticeTest1()[pri:0, instance:org.tyss.maven_command_line_argument_practice.MavenPracticeTest@f736069]" started-at="2022-07-19T23:36:43 IST" name="mavenPracticeTest1" finished-at="2022-07-19T23:36:43 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Practice1 ===> MavenPracticeTest ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mavenPracticeTest1 -->
+      </class> <!-- org.tyss.maven_command_line_argument_practice.MavenPracticeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
