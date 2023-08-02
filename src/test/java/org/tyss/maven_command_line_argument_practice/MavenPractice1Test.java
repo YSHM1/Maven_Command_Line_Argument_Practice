@@ -13,6 +13,7 @@ public void mavenPracticeTest1() {
 @Test
 public void mavenPracticeTest2() {
 	Reporter.log("Practice2 ===> MavenPractice1Test ",true);
+	//changes to pull code from github
 }
 
 @Test
