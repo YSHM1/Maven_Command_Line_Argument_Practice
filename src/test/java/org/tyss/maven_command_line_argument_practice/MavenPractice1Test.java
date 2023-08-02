@@ -20,6 +20,8 @@ public void mavenPracticeTest2() {
 public void mavenPracticeTest3() {
 	Reporter.log("Practice3 ===> MavenPractice1Test ",true);
 	//new branch has made changes
+	
+	//2nd change done by newBranch
 }
 
 }
