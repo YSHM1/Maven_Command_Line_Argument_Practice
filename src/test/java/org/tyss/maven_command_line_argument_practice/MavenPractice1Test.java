@@ -14,6 +14,11 @@ public void mavenPracticeTest1() {
 public void mavenPracticeTest2() {
 	Reporter.log("Practice2 ===> MavenPractice1Test ",true);
 	//changes to pull code from github
+
+	//making changes to create git conflict
+
+	//creating git conflict
+
 }
 
 @Test
