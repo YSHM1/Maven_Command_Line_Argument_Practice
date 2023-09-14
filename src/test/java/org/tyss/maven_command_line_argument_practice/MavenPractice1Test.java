@@ -18,6 +18,7 @@ public void mavenPracticeTest2() {
 	//making changes to create git conflict
 
 	//creating git conflict
+	//
 
 }
 
