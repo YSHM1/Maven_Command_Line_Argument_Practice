@@ -19,6 +19,7 @@ public void mavenPracticeTest2() {
 
 	//creating git conflict
 
+	// new comment
 }
 
 @Test
